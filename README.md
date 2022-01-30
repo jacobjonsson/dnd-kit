@@ -1,1 +1,1 @@
-Playing with [`@dnd-kit`](https://dndkit.com/)
+Playing with [`dnd-kit`](https://dndkit.com/)
